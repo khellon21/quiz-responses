@@ -1,4 +1,4 @@
-* 1. In a subnet with a CIDR notation of /28, `14` host IP addresses are available
+1. In a subnet with a CIDR notation of /28, `14` host IP addresses are available
 
 2. The Network topology provides the highest level of redundancy and fault tolerance, but is also the most expensive to implement is `Full Mesh`
 
